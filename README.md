@@ -1,4 +1,5 @@
-### R_Customer_Tagging (group related customers by tagging them with common id, based on attributes like Phone, Name, Address)
+### R_Customer_Tagging 
+#### (group related customers by tagging them with common id, based on attributes like Phone, Name, Address)
 
 #### Reads in the input file
 #### Eliminate Duplicates (on Customer Number) - write Duplicates to output file
