@@ -20,7 +20,7 @@
 #####	                   - Calls ParFn_name_bndchk
 #####	                   - Calls function ParFn_name_match to do Match Tagging on Phone, Reversed Name, Address
 #####	                   - Update (MasterId, Description) 
-#####    Itera####tion #3.1  - Sort on Address, divide the input into 40 chunks, process them in parallel(4 chunks at a time)
+#####    Iteration #3.1  - Sort on Address, divide the input into 40 chunks, process them in parallel(4 chunks at a time)
 #####                    - Calls CDBcleanup_fullpar_addr_match_upd
 #####                    - Calls ParFn_addr_bndchk
 #####                    - Calls function ParFn_addr_match to do Match Tagging on Phone, Name, Address               
